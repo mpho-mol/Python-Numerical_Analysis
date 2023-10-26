@@ -1,1 +1,3 @@
-# Python_Numerical-Analysis
+Numerical analysis is a subfield of mathematics concerning the development and use of numerical approximations to solve continuous problems and is useful in cases where the exact solution is impossible or prohibitively expensive or laborious to calculate. It is essential in data science, deep learning and machine learning in applications such as parameter estimations, inference (e.g Markov Random Fields), numerical integration (e.g Bayesian Statistics) and numeriacal linear algebra (e.g PCA).
+
+This task was completed in Python using two popular numerical methods, namely the Jacobi and Gauss-Seidel methods to solve a system of n linear equations for n unknowns. The algorithms used also show the value of x*(i) for each i = 0,1,...,N. The programs were tested using the two linear systems shown in 
